@@ -43,12 +43,12 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-10 16:17 CST）
+## API 状态（最近更新：2025-12-10 17:16 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：69
 - 失败 API 数量：8
-- 平均可用率：89.9%
+- 平均可用率：89.8%
 - 完美可用率（100%）：62 个
 - 高可用率（80%-99%）：7 个
 - 中等可用率（50%-79%）：0 个
@@ -128,7 +128,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🔞奥斯卡 | https://aosikazy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞豆豆资源 | https://api.douapi.cc/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| 🚨 | 🔞色南国 | https://api.sexnguon.com/api.php/provide/vod | 27 | 73 | 27.0% | 73 |
+| 🚨 | 🔞色南国 | https://api.sexnguon.com/api.php/provide/vod | 26 | 74 | 26.0% | 74 |
 | 🚨 | 🎬U酷88 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬U酷资源 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬如意资源 | https://dl.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |

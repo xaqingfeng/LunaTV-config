@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-08 19:13 CST）
+## API 状态（最近更新：2026-01-08 20:25 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：69

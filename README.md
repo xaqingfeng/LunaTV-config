@@ -43,11 +43,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-20 06:24 CST）
+## API 状态（最近更新：2026-04-20 07:27 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：64
-- 失败 API 数量：13
+- 成功 API 数量：67
+- 失败 API 数量：10
 - 平均可用率：86.3%
 - 完美可用率（100%）：46 个
 - 高可用率（80%-99%）：21 个
@@ -106,12 +106,12 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🔞辣椒资源 | https://apilj.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬360资源 | https://360zy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | 🎬iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | 🎬iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬光速资源 | https://api.guangsuapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬金鹰资源 | https://jyzyapi.com/provide/vod/from/jinyingyun/at/json | 99 | 1 | 99.0% | 0 |
-| ❌ | 🔞AIvin | http://lbapiby.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
-| ❌ | 🔞乐播资源 | https://lbapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | 🔞AIvin | http://lbapiby.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
+| ✅ | 🔞乐播资源 | https://lbapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞老色逼 | https://apilsbzy1.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞黄AVZY | https://www.pgxdy.com/api/json.php | 99 | 1 | 99.0% | 0 |

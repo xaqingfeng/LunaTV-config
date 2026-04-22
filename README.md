@@ -43,11 +43,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-22 07:27 CST）
+## API 状态（最近更新：2026-04-22 09:24 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：67
-- 失败 API 数量：10
+- 成功 API 数量：66
+- 失败 API 数量：11
 - 平均可用率：86.3%
 - 完美可用率（100%）：46 个
 - 高可用率（80%-99%）：21 个
@@ -115,11 +115,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🔞91麻豆 | https://91md.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞AIvin | http://lbapiby.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞乐播资源 | https://lbapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞老色逼 | https://apilsbzy1.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬新浪资源 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/at/json | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬速播资源 | https://subocaiji.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| ❌ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 98 | 2 | 98.0% | 1 |
 | ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 97 | 3 | 97.0% | 0 |

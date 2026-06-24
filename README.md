@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-06-25 02:27 CST）
+## API 状态（最近更新：2026-06-25 04:27 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：65
@@ -118,7 +118,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬金鹰资源 | https://jyzyapi.com/provide/vod/from/jinyingyun/at/json | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| 🚨 | 🔞辣椒资源 | https://apilj.com/api.php/provide/vod | 96 | 4 | 96.0% | 4 |
+| 🚨 | 🔞辣椒资源 | https://apilj.com/api.php/provide/vod | 95 | 5 | 95.0% | 5 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 🔞森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |

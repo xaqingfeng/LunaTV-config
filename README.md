@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-10-02 14:24 CST）
+## API 状态（最近更新：2026-10-02 21:19 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：64
@@ -120,11 +120,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🎬无尽资源 | https://api.wujinapi.me/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬无尽资源1 | https://api.wujinapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
+| ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
 | ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
-| 🚨 | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 42 | 58 | 42.0% | 58 |
-| 🚨 | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 15 | 85 | 15.0% | 70 |
+| 🚨 | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 41 | 59 | 41.0% | 59 |
+| 🚨 | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 15 | 85 | 15.0% | 71 |
 | 🚨 | 🎬U酷88 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬U酷资源 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬如意资源 | https://dl.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |

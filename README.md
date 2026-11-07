@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-11-07 05:51 CST）
+## API 状态（最近更新：2026-11-07 09:25 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：61
@@ -119,9 +119,9 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬无尽资源1 | https://api.wujinapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 🔞大地资源 | https://dadiapi.com/feifei2 | 89 | 11 | 89.0% | 0 |
-| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 87 | 13 | 87.0% | 1 |
 | ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 86 | 14 | 86.0% | 0 |
-| 🚨 | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 64 | 36 | 64.0% | 34 |
+| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 86 | 14 | 86.0% | 2 |
+| 🚨 | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 63 | 37 | 63.0% | 35 |
 | 🚨 | 🎬U酷88 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬U酷资源 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬如意资源 | https://dl.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
